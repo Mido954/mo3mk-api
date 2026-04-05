@@ -1,0 +1,7 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.22
+moviepy==2.2.1
+pillow==11.3.0
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
